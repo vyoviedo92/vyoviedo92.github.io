@@ -66,8 +66,8 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "https://github.com/vyoviedo92"
-    Linkedin = "https://www.linkedin.com/in/vanessa-oviedo-a58a6313a/"
+    GitHub = "vyoviedo92"
+    Linkedin = "vanessa-oviedo-a58a6313a"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "voviedo@ucsc.edu"
@@ -119,8 +119,8 @@ disqusShortname = "yourdiscussshortname"
     #Dribble = "xxxx"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
-    Googlescholar = "https://scholar.google.com/citations?user=uDqdt_gAAAAJ&hl=en"
-    Researchgate = "https://www.researchgate.net/profile/Vanessa-Oviedo-2"
+    Googlescholar = "citations?user=uDqdt_gAAAAJ&hl=en"
+    Researchgate = "Vanessa-Oviedo-2"
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
 
