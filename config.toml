@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "CV"
-    url = "/pdfs/CV.pdf"
+    url = "(https://vyoviedo92.github.io/CV.pdf"
     weight = 2
 
   [[menu.main]]
