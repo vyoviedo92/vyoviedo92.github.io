@@ -27,7 +27,7 @@ Miyatsu, T., **Oviedo, V.**, Reynaga, J., Karuzis, V. P., Martinez, D., O’Rour
 
 **Oviedo, V. Y.**, The liking gap in online communication. 3-min thesis presented at UCSC Grad Slam, March 2023. Santa Cruz, CA. [talk](https://www.youtube.com/watch?v=fqi2LJn2ovY)
 
-**Oviedo, V. Y.**, & Fox Tree, J. E., How modality switching affects social presence and emotional connection. Abstract accepted for poster presentation at the Psychonomics Society Conference, November 2021. Virtual. [poster]((https://vyoviedo92.github.io/Psynom_2021.pdf)
+**Oviedo, V. Y.**, & Fox Tree, J. E., How modality switching affects social presence and emotional connection. Abstract accepted for poster presentation at the Psychonomics Society Conference, November 2021. Virtual. [poster](https://vyoviedo92.github.io/Psynom_2021.pdf)
 
 **Oviedo, V. Y.**, & Fox Tree, J. E., Texting versus videochat: Effects on confidence and performance. Abstract accepted for poster presentation at the Psychonomics Society Conference, November 2020. Virtual. [poster](https://vyoviedo92.github.io/Psynom_2020.pdf)
 
