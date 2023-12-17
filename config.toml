@@ -31,12 +31,12 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "CV"
-    url = "https://docs.google.com/document/d/18T7Qm4vQp2sfjEBxHCkDkUTQMoET_YZi/edit#heading=h.gjdgxs"
+    url = "/pdfs/CV.pdf"
     weight = 2
 
   [[menu.main]]
-    name = "Non-Academics"
-    url = "/non-academics/"
+    name = "Publications"
+    url = "/publications/"
     weight = 3
 
 [params]
