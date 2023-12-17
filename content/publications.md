@@ -9,7 +9,7 @@ draft: false
 # Papers
 1. Miyatsu, T., Oviedo, V., Reynaga, J., Karuzis, V. P., Martinez, D., O’Rourke, P., Key, M., McIntire, L., Aue, W., McKinley, R., Pirolli, P., & Broderick, T. (2023). Transcutaneous cervical vagus nerve stimulation enhances second-language vocabulary acquisition while simultaneously mitigating fatigue and promoting focus. Neurology, 100(17:2), 2 - 12.002. [conference paper](https://doi.org/10.1212/WNL.0000000000201931)
 
-2. Oviedo, V. Y., Fox Tree, J. E. (2021). Meeting by text or video-chat: Effects on confidence and performance. Computers in Human Behavior Reports, 3, 1-8. [open-access paper](/pdfs/Oviedo & Fox Tree, 2021.pdf)
+2. Oviedo, V. Y., Fox Tree, J. E. (2021). Meeting by text or video-chat: Effects on confidence and performance. Computers in Human Behavior Reports, 3, 1-8. [open-access paper]<object data="Oviedo & Fox Tree, 2021.pdf" width="1000" height="1000" type='application/pdf'/>
 
 3. Griffin, C., Hergott, G., Massey, N., Beazley, D. A., Bolgla, L., Flynn, S., Oviedo, V., Kurchian, C., Pu, W., Barker, K., Komforti, D. W., Joffe, C., Magras, A., Peller, A., Garbe, E., Garib, R. Trapuzzano, A. D., Dawson, N. T., Stock, M. S., Shaikh, F. D., Tennant, J. E., Hame, R. N., & Zukowski, L. A. (2020). Use of steadi and physical activity vital sign in fall risk assessment. Journal of Geriatric Physical Therapy, 1 - 2. [conference paper](https://doi.org/10.1519/JPT.0000000000000270)
    
@@ -22,7 +22,7 @@ draft: false
 # Presentations 
 
 1. Oviedo, V. Y., & Fox Tree, J. E., Interacting with diverse audiences improves communication skills. Abstract accepted for presentation at the Psychonomics Society Conference, November 2023. San Francisco, CA. [poster](/pdfs/Psynom_2023.pptx)
- ---<br><br>
+
 2. Miyatsu, T., Oviedo, V., Reynaga, J., Karuzis, V. P., Martinez, D., O’Rourke, P., Key, M., McIntire, L., Aue, W., McKinley, R., Pirolli, & P., Broderick, T. Transcutaneous cervical vagus nerve stimulation enhances second-language vocabulary acquisition while simultaneously mitigating fatigue and promoting focus. Paper presented for poster presentation at the American Academy of Neurology Conference, April 2023. Boston, MA and Virtual. [paper](https://doi.org/10.1212/WNL.0000000000201931)
 
 3. Oviedo, V. Y., The liking gap in online communication. 3-min thesis presented at UCSC Grad Slam, March 2023. Santa Cruz, CA. [talk](https://www.youtube.com/watch?v=fqi2LJn2ovY)
