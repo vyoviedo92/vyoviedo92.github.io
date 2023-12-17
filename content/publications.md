@@ -9,7 +9,7 @@ draft: false
 # Papers
 1. Miyatsu, T., Oviedo, V., Reynaga, J., Karuzis, V. P., Martinez, D., O’Rourke, P., Key, M., McIntire, L., Aue, W., McKinley, R., Pirolli, P., & Broderick, T. (2023). Transcutaneous cervical vagus nerve stimulation enhances second-language vocabulary acquisition while simultaneously mitigating fatigue and promoting focus. Neurology, 100(17:2), 2 - 12.002. [conference paper](https://doi.org/10.1212/WNL.0000000000201931)
 
-2. Oviedo, V. Y., Fox Tree, J. E. (2021). Meeting by text or video-chat: Effects on confidence and performance. Computers in Human Behavior Reports, 3, 1-8. [open-access paper](/static/pdfs/Oviedo & Fox Tree, 2021.pdf)
+2. Oviedo, V. Y., Fox Tree, J. E. (2021). Meeting by text or video-chat: Effects on confidence and performance. Computers in Human Behavior Reports, 3, 1-8. [open-access paper](/Oviedo & Fox Tree, 2021.pdf)
 
 3. Griffin, C., Hergott, G., Massey, N., Beazley, D. A., Bolgla, L., Flynn, S., Oviedo, V., Kurchian, C., Pu, W., Barker, K., Komforti, D. W., Joffe, C., Magras, A., Peller, A., Garbe, E., Garib, R. Trapuzzano, A. D., Dawson, N. T., Stock, M. S., Shaikh, F. D., Tennant, J. E., Hame, R. N., & Zukowski, L. A. (2020). Use of steadi and physical activity vital sign in fall risk assessment. Journal of Geriatric Physical Therapy, 1 - 2. [conference paper](https://doi.org/10.1519/JPT.0000000000000270)
    
