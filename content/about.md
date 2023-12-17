@@ -5,6 +5,7 @@ date: 2020-03-04T15:58:26+08:00
 lastmod: 2020-03-04T15:58:26+08:00
 draft: false
 ---
+<center>
 
 I’m a first generation Mexican-American PhD candidate studying Cognitive Psychology under the supervision of [Dr. Jean E. Fox Tree](https://foxtree.sites.ucsc.edu) at the University of California, Santa Cruz. 
 
@@ -13,3 +14,5 @@ Prior to becoming a graduate student, I completed my Bachelor of Arts in Psychol
 
 
 My research primarily focuses on how perceptions of our conversational partners change when communicating across modalities, such as when using video-chat, messaging, and audio communication, as well as when modality switching, or switching between two communication media. I am also interested in how having diverse addressees affects our ability to communicate more effectively, as well as how prosody and intonational meaning affect perceptions and memory.
+
+</center>
