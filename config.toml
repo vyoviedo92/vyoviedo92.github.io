@@ -137,22 +137,6 @@ Linkedin = true
 #Douban = true
 #Weibo = true
 
-[mediaTypes]
-  [mediaTypes."application/pdf"]
-    suffixes = ["pdf"]
-
-[outputFormats]
-  [outputFormats.PDF]
-    mediaType = "application/pdf"
-    baseName = "index"
-    isPlainText = true
-    notAlternative = true
-
-[outputs]
-  home = ["HTML", "PDF"]
-  section = ["HTML", "PDF"]
-  taxonomy = ["HTML", "PDF"]
-
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
