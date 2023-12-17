@@ -9,6 +9,7 @@ draft: false
 # Papers
 Miyatsu, T., **Oviedo, V.**, Reynaga, J., Karuzis, V. P., Martinez, D., O’Rourke, P., Key, M., McIntire, L., Aue, W., McKinley, R., Pirolli, P., & Broderick, T. (2023). Transcutaneous cervical vagus nerve stimulation enhances second-language vocabulary acquisition while simultaneously mitigating fatigue and promoting focus. Neurology, 100(17:2), 2 - 12.002. [conference paper](https://doi.org/10.1212/WNL.0000000000201931)
 <br>
+<br>
 <br>**Oviedo, V. Y.**, Fox Tree, J. E. (2021). Meeting by text or video-chat: Effects on confidence and performance. Computers in Human Behavior Reports, 3, 1-8. [open-access paper](https://vyoviedo92.github.io/Oviedo-and-Fox-Tree-2021.pdf)
 <br>
 <br>Griffin, C., Hergott, G., Massey, N., Beazley, D. A., Bolgla, L., Flynn, S., **Oviedo, V.**, Kurchian, C., Pu, W., Barker, K., Komforti, D. W., Joffe, C., Magras, A., Peller, A., Garbe, E., Garib, R. Trapuzzano, A. D., Dawson, N. T., Stock, M. S., Shaikh, F. D., Tennant, J. E., Hame, R. N., & Zukowski, L. A. (2020). Use of steadi and physical activity vital sign in fall risk assessment. Journal of Geriatric Physical Therapy, 1 - 2. [conference paper](https://doi.org/10.1519/JPT.0000000000000270)
@@ -17,7 +18,7 @@ Miyatsu, T., **Oviedo, V.**, Reynaga, J., Karuzis, V. P., Martinez, D., O’Rour
 <br>
 <br>Flynn, S. M., **Oviedo, V. Y.**, Hoffmann, W. N., Stevens-Lapsley, J., Roberts, P., & Bini, S. (2018). Reliability, validity and usability of a digital education and self-assessment app for adults with knee osteoarthritis. Gerontechnology, 17(3), 158. [conference paper](https://vyoviedo92.github.io/Flynn-et-al-2018.pdf)
 <br>
-<br>**Oviedo, V.**, Tornquist, M., Cameron, T., & Chiappe, D. (2015). Effects of media multi-tasking with Facebook on the enjoyment and encoding of TV episodes. Computers in Human Behavior, 51, 407-417. ISSN 0747-5632. [paper]([/pdfs/](https://vyoviedo92.github.io/Oviedo-et-al-2015.pdf)
+<br>**Oviedo, V.**, Tornquist, M., Cameron, T., & Chiappe, D. (2015). Effects of media multi-tasking with Facebook on the enjoyment and encoding of TV episodes. Computers in Human Behavior, 51, 407-417. ISSN 0747-5632. [paper](https://vyoviedo92.github.io/Oviedo-et-al-2015.pdf)
 
 # Presentations 
 
