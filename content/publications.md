@@ -39,4 +39,4 @@ draft: false
 
 9. **Oviedo, V.**, Tornquist, M., Cameron, T., & Chiappe, D. Effects of media multi-tasking with Facebook on the enjoyment and encoding of TV episodes. Paper accepted for poster presentation at The Applied Human Factors and Ergonomics International Conference, July, 2016. Orlando, Florida.
 
-**Oviedo, V.**, Medina, E., Winter, A., Ayers-Everett, T., Bouey, T., Cameron, T., Moreno, S., Remaloui, A., & Chiappe, D. The effects of media-multitasking on enjoyment and memory. Abstract accepted for poster presentation at The Western Psychological Association Convention, April, 2014. Portland, Oregon.
+10. **Oviedo, V.**, Medina, E., Winter, A., Ayers-Everett, T., Bouey, T., Cameron, T., Moreno, S., Remaloui, A., & Chiappe, D. The effects of media-multitasking on enjoyment and memory. Abstract accepted for poster presentation at The Western Psychological Association Convention, April, 2014. Portland, Oregon.
