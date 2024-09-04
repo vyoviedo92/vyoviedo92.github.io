@@ -7,9 +7,9 @@ draft: false
 ---
 
 
-I’m a first generation Mexican-American PhD candidate studying Cognitive Psychology under the supervision of [Dr. Jean E. Fox Tree](https://foxtree.sites.ucsc.edu) at the University of California, Santa Cruz. 
+Hi there! I’m a (contract) Quantitative UX Researcher at [Scalence LLC](https://www.scalence.com), (supporting [Google AR/VR](https://arvr.google.com)) where I work on questions related to human-computer interaction (HCI) and human factors. Prior to joining Scalence, I interned at [Meta Reality Labs] (https://about.fb.com/news/2020/09/facebook-reality-labs-research-future-of-audio/) as a UX Research Scientist Intern where I worked on [social connectedness in spatial audio calling] (https://www.sciencedirect.com/science/article/pii/S2451958824000848?via%3Dihub) and as UX Research Associate at [Blue Marble Health](https://bluemarblehealthco.com) where I assisted with reliability, validity, and usability of a remote therapeutic monitoring platform for chronic disease and aging.
 
-Prior to becoming a graduate student, I completed my Bachelor of Arts in Psychology at California State University, Long Beach in 2014. Between my undergraduate and graduate studies, I worked for five years in the research field. I obtained my Masters of Science in Psychology from UC Santa Cruz in 2021.
+I have a PhD in Cognitive Psychology from UC Santa Cruz where I worked under the supervision of [Dr. Jean E. Fox Tree](https://foxtree.sites.ucsc.edu). At UC Santa Cruz, I worked on questions related to person perception, metaperception, and computer-mediated communication. I'm also a first generation Mexican-American graduate (for PhD, MS, and BA). 
 
-My research primarily focuses on how perceptions of our conversational partners change when communicating across modalities, such as when using video-chat, messaging, and audio communication, as well as when modality switching, or switching between two communication media. I am also interested in how having diverse addressees affects our ability to communicate more effectively, as well as how prosody and intonational meaning affect perceptions and memory. 
+
 
