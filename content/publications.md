@@ -7,7 +7,7 @@ draft: false
 ---
 
 # Papers
-1.[**Oviedo, V. Y.**, & Fox Tree, J. E. (2024). Social presence and collaborative creativity in leaner media. Computers in Human Behavior Reports, 16, 100514.](https://www.sciencedirect.com/science/article/pii/S2451958824001477?via%3Dihub)
+1. [**Oviedo, V. Y.**, & Fox Tree, J. E. (2024). Social presence and collaborative creativity in leaner media. Computers in Human Behavior Reports, 16, 100514.](https://www.sciencedirect.com/science/article/pii/S2451958824001477?via%3Dihub)
 
 2. [**Oviedo, V. Y.**, Johnson, K., Huberth, M., & Brimijoin, W. O. (2024). Social connectedness in spatial audio calling contexts. Computers in Human Behavior Reports, 15, 100451.](https://www.sciencedirect.com/science/article/pii/S2451958824000848?via%3Dihub) 
 
