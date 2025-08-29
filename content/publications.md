@@ -7,7 +7,7 @@ draft: false
 ---
 
 # Papers
-1.[**Oviedo, V. Y.**, Guydish, A. J., & Fox Tree, J.E. (under review). The liking gap online: People like us more than we think.  Computers in Human Behavior Reports, 17, 100582.](https://www.sciencedirect.com/science/article/pii/S245195882400215X)
+1. [**Oviedo, V. Y.**, Guydish, A. J., & Fox Tree, J.E. (under review). The liking gap online: People like us more than we think.  Computers in Human Behavior Reports, 17, 100582.](https://www.sciencedirect.com/science/article/pii/S245195882400215X)
 
 2. [**Oviedo, V. Y.**, & Fox Tree, J. E. (2024). Social presence and collaborative creativity in leaner media. Computers in Human Behavior Reports, 16, 100514.](https://www.sciencedirect.com/science/article/pii/S2451958824001477?via%3Dihub)
 
@@ -27,7 +27,7 @@ draft: false
 
 # Presentations 
 
-1. [**Oviedo, V. Y.**, & Fox Tree, J. E., How modality switching affects the liking gap in conversation. Abstract accepted for presentation at the Psychonomics Society Conference, November 2024. New York, NY.] (https://vyoviedo92.github.io/Psynom_2024.pdf)
+1. [**Oviedo, V. Y.**, & Fox Tree, J. E., How modality switching affects the liking gap in conversation. Abstract accepted for presentation at the Psychonomics Society Conference, November 2024. New York, NY.](https://vyoviedo92.github.io/Psynom_2024.pdf)
 
 2. [**Oviedo, V. Y.**, & Fox Tree, J. E., Interacting with diverse audiences improves communication skills. Abstract accepted for presentation at the Psychonomics Society Conference, November 2023. San Francisco, CA.](https://vyoviedo92.github.io/Psynom_2023.pdf)
 
