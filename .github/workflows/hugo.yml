@@ -32,8 +32,11 @@ jobs:
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
 
-      - name: Checkout
+      - name: Checkout (with theme submodules)
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
 
       - name: Setup Pages
         id: pages
