@@ -7,8 +7,8 @@ draft: false
 ---
 
 # Papers
-1. **Oviedo, V. Y.**, & Fox Tree, J. E. (in preparation). Trusting uptalk in the context of misinformation.
-2. **Oviedo, V. Y.**, & Fox Tree, J. E. (in preparation). Interacting with diverse audiences improves communication skills.
+1. **Oviedo, V. Y.**, & Fox Tree, J. E. (under review). Trusting uptalk in the context of misinformation.
+2. **Oviedo, V. Y.**, & Fox Tree, J. E. (under review). Interacting with diverse audiences improves communication skills.
 3. [**Oviedo, V. Y.**, Guydish, A. J., & Fox Tree, J.E. (2024). The liking gap online: People like us more than we think.  Computers in Human Behavior Reports, 17, 100582.](https://www.sciencedirect.com/science/article/pii/S245195882400215X)
 
 4. [**Oviedo, V. Y.**, & Fox Tree, J. E. (2024). Social presence and collaborative creativity in leaner media. Computers in Human Behavior Reports, 16, 100514.](https://www.sciencedirect.com/science/article/pii/S2451958824001477?via%3Dihub)
